@@ -1,24 +1,29 @@
 ## Objective: ##
 This project aimed to develop a machine learning model to predict student outcomes, including academic success and dropout rates. By analyzing key factors such as attendance, grades, parental qualifications, and socioeconomic data, the model provided actionable insights to help educational institutions identify at-risk students early and support them effectively.
 
-Team Composition and Roles:
+
+## Team Composition and Roles: ##
 This project was a collaborative effort between two team members, each bringing complementary skills to ensure a successful outcome:
 
-[Your Name]:
+## Mathari Pavani
 Managed data preprocessing and feature engineering, ensuring the dataset was clean, consistent, and ready for modeling.
 Designed and implemented machine learning models (Logistic Regression and K-Nearest Neighbors).
 Created visualizations to interpret results and communicated key findings.
-[Your Partner's Name]:
+
+## Ruchith Chippari
 Conducted exploratory data analysis (EDA) to identify trends and relationships in the dataset.
 Focused on hyperparameter tuning and performance evaluation for optimal model accuracy.
 Assisted in project documentation and presentation.
-Methods and Technologies Used:
 
-Programming Language: Python
+
+## Methods and Technologies Used: ##
+** Programming Language:**  Python
 Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 Machine Learning Models: Logistic Regression (for interpretability) and K-Nearest Neighbors (for flexibility in multidimensional data analysis)
 Visualization Tools: Seaborn and Matplotlib for insightful data representation
-Process:
+
+
+##Process:##
 
 Dataset Preparation:
 Data was collected, cleaned, and encoded to handle missing values and categorical variables.
