@@ -28,11 +28,14 @@ Assisted in project documentation and presentation.
 **Dataset Preparation:**
   - Data was collected, cleaned, and encoded to handle missing values and categorical variables.
   - Features such as attendance rates, grades, and socioeconomic indicators were engineered to enhance the model’s predictive capabilities.
+
 **Exploratory Data Analysis:**
   - Key insights were derived from trends and correlations, such as the impact of parental education and attendance on student performance.
+
 **Modeling and Evaluation:**
   - Logistic Regression was used to analyze feature importance and achieved an accuracy of 85%.
   - K-Nearest Neighbors provided robust classification with slightly lower accuracy but excelled in capturing subtle patterns.
+
 **Visualization and Reporting:**
   - Graphs and dashboards highlighted key drivers of student outcomes, offering stakeholders an intuitive understanding of the results.
   - Results and Insights:
